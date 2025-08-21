@@ -1,0 +1,2 @@
+This is a .txt file created in my-first-repo folder and this is the first line of text typing by me.
+I should hit more enter to create new line.
